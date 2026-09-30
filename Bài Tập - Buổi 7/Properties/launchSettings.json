@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Bài Tập - Buổi 7": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
